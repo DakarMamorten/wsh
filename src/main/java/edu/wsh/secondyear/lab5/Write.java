@@ -1,4 +1,4 @@
-package edu.wsh.lab5;
+package edu.wsh.secondyear.lab5;
 
 public class Write {
     public void wypisz(int liczba) {

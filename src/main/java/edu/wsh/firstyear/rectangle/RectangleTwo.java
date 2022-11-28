@@ -1,4 +1,4 @@
-package edu.wsh.secondyear.rectangle;
+package edu.wsh.firstyear.rectangle;
 
 public class RectangleTwo {
     private int length;

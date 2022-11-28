@@ -1,4 +1,4 @@
-package edu.wsh.lab5;
+package edu.wsh.secondyear.lab5;
 
 public class Main {
     public static void main(String[] args) {

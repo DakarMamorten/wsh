@@ -1,4 +1,4 @@
-package edu.wsh.secondyear.employee;
+package edu.wsh.firstyear.employee;
 
 public class EmployeeTest {
 

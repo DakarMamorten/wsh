@@ -1,4 +1,4 @@
-package edu.wsh.lab6;
+package edu.wsh.secondyear.lab6;
 
 public class PersonTable {
     public static void main(String[] args) {

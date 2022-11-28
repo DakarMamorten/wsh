@@ -1,4 +1,4 @@
-package edu.wsh.lab4;
+package edu.wsh.secondyear.lab4;
 
 public class ArrayTest {
 

@@ -1,4 +1,4 @@
-package edu.wsh.lab3;
+package edu.wsh.secondyear.lab3;
 
 public class ConcatString {
     public static void main(String[] args) {

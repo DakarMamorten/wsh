@@ -1,4 +1,4 @@
-package edu.wsh.lab6;
+package edu.wsh.secondyear.lab6;
 
 import java.io.BufferedReader;
 import java.io.IOException;
