@@ -7,11 +7,9 @@ public class DispatcherFile {
         try {
             FileInputStream input = new FileInputStream("/home/vlad:input.txt");
             System.out.println("Data in the file: ");
-            // Reads the first byte
             int i = input.read();
             while (i != -1) {
                 System.out.print((char) i);
-            // Reads next byte from the file
                 i = input.read();
             }
             input.close();
