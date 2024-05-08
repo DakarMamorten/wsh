@@ -1,4 +1,4 @@
-package edu.wsh.thirdyear;
+package edu.wsh.thirdyear.lab1;
 
 import java.util.Collections;
 import java.util.LinkedList;
