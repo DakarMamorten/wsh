@@ -87,3 +87,17 @@ t
 Dsrc/main/java/edu/wsh/thirdyear/lab4/zad6/InterruptibleRunnable.java,5\e\5ede439311b9851659e9bf08f9e19a17c43d3319
 v
 Fsrc/main/java/edu/wsh/thirdyear/lab4/zad7/RandomInterruptRunnable.java,e\b\eb30a4e3f0a152022820f9623041d4868ea28a90
+c
+3src/main/java/edu/wsh/thirdyear/lab5/zad1/Main.java,2\1\21e9396fb6d2a4f8296fb1408100370e01b7c8ef
+f
+6src/main/java/edu/wsh/thirdyear/lab5/zad2/Counter.java,d\a\da34a51dd3bc684a15df92c440ef67310bd1cc40
+c
+3src/main/java/edu/wsh/thirdyear/lab5/zad3/Main.java,f\6\f653e7efc158f25293ad657ac451af0d86e80288
+f
+6src/main/java/edu/wsh/thirdyear/lab5/zad4/Counter.java,b\7\b79e73889ea837a5bacf456f190131730875302f
+f
+6src/main/java/edu/wsh/thirdyear/lab5/zad5/Counter.java,7\d\7db8665bc72ee5be235155c81b6d66c949ad9a30
+f
+6src/main/java/edu/wsh/thirdyear/lab5/zad6/Counter.java,c\c\cc1ea47bbc0b9ee67110b208183471cdc2d74a51
+f
+6src/main/java/edu/wsh/thirdyear/lab5/zad7/Counter.java,8\5\8505b9625c5b71b318760f502b17f0375b5ad064
