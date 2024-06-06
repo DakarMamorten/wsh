@@ -101,3 +101,15 @@ f
 6src/main/java/edu/wsh/thirdyear/lab5/zad6/Counter.java,c\c\cc1ea47bbc0b9ee67110b208183471cdc2d74a51
 f
 6src/main/java/edu/wsh/thirdyear/lab5/zad7/Counter.java,8\5\8505b9625c5b71b318760f502b17f0375b5ad064
+c
+3src/main/java/edu/wsh/thirdyear/lab6/zad1/Main.java,5\b\5b49dc750b1592de0d64624238e1472fbf092032
+c
+3src/main/java/edu/wsh/thirdyear/lab6/zad2/Main.java,f\8\f885e76e4363b2fcfe4475915f220fd600403a64
+c
+3src/main/java/edu/wsh/thirdyear/lab6/zad3/Main.java,e\8\e8c9c4b109bc39ba7595b18faf60368f3f0ef352
+c
+3src/main/java/edu/wsh/thirdyear/lab6/zad4/Main.java,6\6\6649d0613aa179b4cf981df80fdb984db6665927
+c
+3src/main/java/edu/wsh/thirdyear/lab6/zad5/Main.java,7\0\7003ee7336aac718f1ba68160b1dbf0101b302ea
+c
+3src/main/java/edu/wsh/thirdyear/lab6/zad6/Main.java,1\5\1522f5608a4f943c1596617ce5aca132cfba0e54
