@@ -11,7 +11,7 @@ public class DeleteStudent {
         try (Connection conn = DBConnection.getConnection()) {
             String deleteSQL = "DELETE FROM Student WHERE Name = ?";
             try (PreparedStatement pstmt = conn.prepareStatement(deleteSQL)) {
-                pstmt.setString(1, "Vladyslav");
+                pstmt.setString(1, "Milian");
                 int rowsAffected = pstmt.executeUpdate();
                 if (rowsAffected > 0) {
                     System.out.println("Usunięto rekord z tabeli Student.");

@@ -12,7 +12,7 @@ public class UpdateStudent {
             String updateSQL = "UPDATE Student SET Age = ? WHERE Name = ?";
             try (PreparedStatement pstmt = conn.prepareStatement(updateSQL)) {
                 pstmt.setInt(1, 27);
-                pstmt.setString(2, "Vladyslav");
+                pstmt.setString(2, "Vladyslav Paun");
                 int rowsAffected = pstmt.executeUpdate();
                 if (rowsAffected > 0) {
                     System.out.println("Zaktualizowano rekord w tabeli Student.");
